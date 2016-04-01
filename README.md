@@ -14,6 +14,22 @@ $ python josephus.py [Number of people]
 
 ```
 
+To run the tests
+
+```
+$ python tests.py
+
+```
+
+### Or
+
+```
+
+nosetests
+
+```
+
+in case you have nose installed
 
 
 
